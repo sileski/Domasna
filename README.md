@@ -1,5 +1,4 @@
-# Domasna
-![alt text](https://github.com/sileski/Domasna/blob/master/screenshots/V2-1.jpg?raw=true)
+# Domasna 2
 
 <table style="width:100%">
     <tr>
